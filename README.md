@@ -1,4 +1,4 @@
-I’m happy to share my first project in the learning phase of Data Analytics with the help of MS Excel. 
+I’m happy to share this project in the learning phase of Data Analytics with the help of MS Excel. 
 
 
 Objective:
